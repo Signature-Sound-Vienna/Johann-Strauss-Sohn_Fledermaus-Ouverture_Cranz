@@ -63,7 +63,7 @@
    <music xml:id="mi40khd">
       <facsimile>
          <surface xml:id="surface_01M7JZBGNJVNCRBPPQD74YJ06C" n="1" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGNJVBYVCPJQMYB6V764" target="Fledermaus-Ouverture_piano_p04.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGNJVBYVCPJQMYB6V764" target="png/Fledermaus-Ouverture_piano_p04.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGNM15TDSMHT4A5FRF3Y" type="measure" ulx="816" uly="1435" lrx="1743" lry="2451"/>
             <zone xml:id="zone_01M7JZBGNMJC417QRKNGJFW9PK" type="measure" ulx="1661" uly="1471" lrx="2413" lry="2452"/>
             <zone xml:id="zone_01M7JZBGNMFJE3YT4QNMP7BWE4" type="measure" ulx="2317" uly="1467" lrx="2891" lry="2463"/>
@@ -94,7 +94,7 @@
             <zone xml:id="zone_01M7JZBGNP3JWR83654DRD6K9K" type="measure" ulx="3429" uly="5316" lrx="4201" lry="6283"/>
          </surface>
          <surface xml:id="surface_01M7JZBGNQKWPMJ79G4JDAQ993" n="2" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGNQ14KCN9HB3P5JQ809" target="Fledermaus-Ouverture_piano_p05.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGNQ14KCN9HB3P5JQ809" target="png/Fledermaus-Ouverture_piano_p05.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGNQP5P8A3A610AXE5M1" type="measure" ulx="344" uly="471" lrx="1822" lry="1493"/>
             <zone xml:id="zone_01M7JZBGNQHRHBAS9ZZG5N0Y79" type="measure" ulx="1728" uly="465" lrx="2853" lry="1481"/>
             <zone xml:id="zone_01M7JZBGNQEGG1D125K6YNM669" type="measure" ulx="2755" uly="481" lrx="3437" lry="1480"/>
@@ -137,7 +137,7 @@
             <zone xml:id="zone_01M7JZBGNW27QZ28VJRZEZR3ZY" type="measure" ulx="3536" uly="5264" lrx="3995" lry="6226"/>
          </surface>
          <surface xml:id="surface_01M7JZBGNW9XKXZWWPZ0AAJJJB" n="3" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGNW78EV8XY4P54WZ764" target="Fledermaus-Ouverture_piano_p06.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGNW78EV8XY4P54WZ764" target="png/Fledermaus-Ouverture_piano_p06.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGNX0SXMMQ80XESTX5FH" type="measure" ulx="346" uly="456" lrx="1274" lry="1583"/>
             <zone xml:id="zone_01M7JZBGNXGMGNYH43998C0HGK" type="measure" ulx="1199" uly="502" lrx="1842" lry="1565"/>
             <zone xml:id="zone_01M7JZBGNX62Z4JC5QG0CDDRQ6" type="measure" ulx="1771" uly="501" lrx="2358" lry="1570"/>
@@ -183,7 +183,7 @@
             <zone xml:id="zone_01M7JZBGP22AT53D91CP3FSXWG" type="measure" ulx="3618" uly="5319" lrx="4131" lry="6304"/>
          </surface>
          <surface xml:id="surface_01M7JZBGP31S5GT7G54PFHSKV9" n="4" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGP3WCGGJP1S22CD1A25" target="Fledermaus-Ouverture_piano_p07.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGP3WCGGJP1S22CD1A25" target="png/Fledermaus-Ouverture_piano_p07.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGP3X66APQPSBQ176XC4" type="measure" ulx="327" uly="452" lrx="1343" lry="1460"/>
             <zone xml:id="zone_01M7JZBGP3WJQC6S9DT2Y44XQ5" type="measure" ulx="1254" uly="468" lrx="1834" lry="1443"/>
             <zone xml:id="zone_01M7JZBGP33VCQQ3RJ9XFEZXG2" type="measure" ulx="1751" uly="465" lrx="2480" lry="1437"/>
@@ -224,7 +224,7 @@
             <zone xml:id="zone_01M7JZBGP70SPPXNXG71R4A1MX" type="measure" ulx="3520" uly="5330" lrx="4179" lry="6264"/>
          </surface>
          <surface xml:id="surface_01M7JZBGP8943FYTVT25FEC8ET" n="5" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGP8KEPP8NWZD62GDVBA" target="Fledermaus-Ouverture_piano_p08.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGP8KEPP8NWZD62GDVBA" target="png/Fledermaus-Ouverture_piano_p08.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGP8RM7CNW0HHKGYNV3V" type="measure" ulx="353" uly="509" lrx="1414" lry="1457"/>
             <zone xml:id="zone_01M7JZBGP88S3BGC0B0X3N1MRA" type="measure" ulx="1318" uly="535" lrx="2157" lry="1452"/>
             <zone xml:id="zone_01M7JZBGP8W5X9NAJVSVNMNYMH" type="measure" ulx="2058" uly="510" lrx="2623" lry="1425"/>
@@ -270,7 +270,7 @@
             <zone xml:id="zone_01M7JZBGPDGV8KES9CR1F6381H" type="measure" ulx="3467" uly="5249" lrx="4129" lry="6365"/>
          </surface>
          <surface xml:id="surface_01M7JZBGPDWGXKYQ37KHHXB2BK" n="6" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGPEXKMJKXFDV1X9FRXP" target="Fledermaus-Ouverture_piano_p09.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGPEXKMJKXFDV1X9FRXP" target="png/Fledermaus-Ouverture_piano_p09.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGPE4H72DD1FA370KRCX" type="measure" ulx="326" uly="452" lrx="1225" lry="1431"/>
             <zone xml:id="zone_01M7JZBGPEMXRVPRWAFX8F71S1" type="measure" ulx="1136" uly="437" lrx="1626" lry="1435"/>
             <zone xml:id="zone_01M7JZBGPEEDEM5W8DB4J90J9F" type="measure" ulx="1531" uly="425" lrx="2073" lry="1434"/>
@@ -305,7 +305,7 @@
             <zone xml:id="zone_01M7JZBGPPYY3JS27JYYRXMFM5" lrx="4153" lry="6274" type="measure" ulx="2949" uly="5271"/>
          </surface>
          <surface xml:id="surface_01M7JZBGPQRT1QZQCTZ4483NCS" n="7" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGPQ4H0RJKP062Z5PV6X" target="Fledermaus-Ouverture_piano_p10.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGPQ4H0RJKP062Z5PV6X" target="png/Fledermaus-Ouverture_piano_p10.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGPQCEY9RWHXH67V3YT5" type="measure" ulx="353" uly="501" lrx="1258" lry="1488"/>
             <zone xml:id="zone_01M7JZBGPQHP4ACY4H1NG1WV9A" type="measure" ulx="1176" uly="508" lrx="1608" lry="1486"/>
             <zone xml:id="zone_01M7JZBGPRSNT7R4KWZ3J0R1BZ" type="measure" ulx="1526" uly="522" lrx="2019" lry="1477"/>
@@ -351,7 +351,7 @@
             <zone xml:id="zone_01M7JZBGPYFRDBGGAK5E2W7NM9" type="measure" ulx="3643" uly="5286" lrx="4172" lry="6297"/>
          </surface>
          <surface xml:id="surface_01M7JZBGPYRN1DVF4K16DCJYDM" n="8" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGPYEEATT5PKTEFBFVR6" target="Fledermaus-Ouverture_piano_p11.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGPYEEATT5PKTEFBFVR6" target="png/Fledermaus-Ouverture_piano_p11.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGPYGQZG6TJXV3K7XRCN" type="measure" ulx="358" uly="422" lrx="1152" lry="1458"/>
             <zone xml:id="zone_01M7JZBGPY2R86DF64BT1YZ9V2" type="measure" ulx="1063" uly="430" lrx="1488" lry="1450"/>
             <zone xml:id="zone_01M7JZBGPZNT4C0GDW4W092DKT" type="measure" ulx="1407" uly="446" lrx="1995" lry="1442"/>
@@ -400,7 +400,7 @@
             <zone xml:id="zone_01M7JZBGQ51J4265RJ895VMT9A" type="measure" ulx="3649" uly="5279" lrx="4043" lry="6226"/>
          </surface>
          <surface xml:id="surface_01M7JZBGQ5DKK8X734HDFMBESM" n="9" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGQ6JM2QRCKVPAGH6ZSP" target="Fledermaus-Ouverture_piano_p12.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGQ6JM2QRCKVPAGH6ZSP" target="png/Fledermaus-Ouverture_piano_p12.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGQ6GJ95SVRA9TKM23WE" type="measure" ulx="320" uly="368" lrx="1331" lry="1288"/>
             <zone xml:id="zone_01M7JZBGQ6JVP0K4ZTB7W04FN7" type="measure" ulx="1220" uly="406" lrx="1813" lry="1278"/>
             <zone xml:id="zone_01M7JZBGQ6C5DEVQXNR8NRVPN6" type="measure" ulx="1707" uly="447" lrx="2289" lry="1296"/>
@@ -457,7 +457,7 @@
             <zone xml:id="zone_01M7JZBGQES15C3WY8DKRBBNCW" type="measure" ulx="3618" uly="5553" lrx="4163" lry="6459"/>
          </surface>
          <surface xml:id="surface_01M7JZBGQFA8VSVZESM8RY1WAN" n="10" ulx="0" uly="0" lrx="4517" lry="6704">
-            <graphic xml:id="graphic_01M7JZBGQFBQJA0V96FBWMQ45F" target="Fledermaus-Ouverture_piano_p13.png" width="4518" height="6705"/>
+            <graphic xml:id="graphic_01M7JZBGQFBQJA0V96FBWMQ45F" target="png/Fledermaus-Ouverture_piano_p13.png" width="4518" height="6705"/>
             <zone xml:id="zone_01M7JZBGQFA3D0A5Y3HDN22JF7" type="measure" ulx="330" uly="429" lrx="1276" lry="1353"/>
             <zone xml:id="zone_01M7JZBGQF5C2CKY7TG3ERKPRH" type="measure" ulx="1178" uly="428" lrx="1659" lry="1346"/>
             <zone xml:id="zone_01M7JZBGQFPWJRKZN9KVMERDAC" type="measure" ulx="1576" uly="429" lrx="2081" lry="1337"/>
