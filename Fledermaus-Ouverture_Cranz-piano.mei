@@ -7220,11 +7220,35 @@
                            <staff xml:id="s9sm50g" n="1">
                               <layer xml:id="lzgctlu2" n="1">
                                  <beam xml:id="bmfc4j7">
-                                    <note xml:id="nsg1a3l1" pname="c" oct="4" dur="8"/>
-                                    <note xml:id="nc0s3cp1" pname="c" oct="4" dur="8"/>
+                                    <chord xml:id="clh8b6kd" dur="8">
+                                       <note xml:id="njkp47x1" pname="f" oct="3" staff="2">
+                                          <accid xml:id="abtqm9e1" accid.ges="s"/>
+                                       </note>
+                                       <note xml:id="nk0ffwu2" pname="a" oct="3" staff="2"/>
+                                       <note xml:id="nsg1a3l1" pname="c" oct="4"/>
+                                    </chord>
+                                    <chord xml:id="cauhi7hq" dur="8">
+                                       <note xml:id="np67rge1" pname="f" oct="3" staff="2">
+                                          <accid xml:id="aioipxp2" accid.ges="s"/>
+                                       </note>
+                                       <note xml:id="na6kd45" pname="a" oct="3" staff="2"/>
+                                       <note xml:id="nc0s3cp1" pname="c" oct="4"/>
+                                    </chord>
                                  </beam>
-                                 <note xml:id="njzxh6e" pname="c" oct="4" dur="4"/>
-                                 <note xml:id="ndwacky2" pname="c" oct="4" dur="4"/>
+                                 <chord xml:id="cdvb4rkk" dur="4">
+                                    <note xml:id="np59bzg" pname="f" oct="3" staff="2">
+                                       <accid xml:id="a5fet7d" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="nttqf6f" pname="a" oct="3" staff="2"/>
+                                    <note xml:id="njzxh6e" pname="c" oct="4"/>
+                                 </chord>
+                                 <chord xml:id="co5462k0" dur="4">
+                                    <note xml:id="nojx27w2" pname="f" oct="3" staff="2">
+                                       <accid xml:id="ajmp1x1" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="nrcmhmw1" pname="a" oct="3" staff="2"/>
+                                    <note xml:id="ndwacky2" pname="c" oct="4"/>
+                                 </chord>
                               </layer>
                            </staff>
                            <staff xml:id="s7je2nw1" n="2">
@@ -7234,38 +7258,22 @@
                                        <note xml:id="nm66hzy2" pname="d" oct="2"/>
                                        <note xml:id="n1tkglo1" pname="a" oct="2"/>
                                        <note xml:id="nih7z1l1" pname="d" oct="3"/>
-                                       <note xml:id="njkp47x1" pname="f" oct="3">
-                                          <accid xml:id="abtqm9e1" accid.ges="s"/>
-                                       </note>
-                                       <note xml:id="nk0ffwu2" pname="a" oct="3"/>
                                     </chord>
                                     <chord xml:id="cxks8zx1" dur="8">
                                        <note xml:id="nlf1b661" pname="d" oct="2"/>
                                        <note xml:id="naxe8mi2" pname="a" oct="2"/>
                                        <note xml:id="n3z5uug" pname="d" oct="3"/>
-                                       <note xml:id="np67rge1" pname="f" oct="3">
-                                          <accid xml:id="aioipxp2" accid.ges="s"/>
-                                       </note>
-                                       <note xml:id="na6kd45" pname="a" oct="3"/>
                                     </chord>
                                  </beam>
                                  <chord xml:id="ckwugwo1" dur="4">
                                     <note xml:id="npgmwmw1" pname="d" oct="2"/>
                                     <note xml:id="np3u2i71" pname="a" oct="2"/>
                                     <note xml:id="n3u3iy5" pname="d" oct="3"/>
-                                    <note xml:id="np59bzg" pname="f" oct="3">
-                                       <accid xml:id="a5fet7d" accid.ges="s"/>
-                                    </note>
-                                    <note xml:id="nttqf6f" pname="a" oct="3"/>
                                  </chord>
                                  <chord xml:id="csat55" dur="4">
                                     <note xml:id="nbmarqh1" pname="d" oct="2"/>
                                     <note xml:id="nwxih261" pname="a" oct="2"/>
                                     <note xml:id="nmfzd0a" pname="d" oct="3"/>
-                                    <note xml:id="nojx27w2" pname="f" oct="3">
-                                       <accid xml:id="ajmp1x1" accid.ges="s"/>
-                                    </note>
-                                    <note xml:id="nrcmhmw1" pname="a" oct="3"/>
                                  </chord>
                               </layer>
                            </staff>
