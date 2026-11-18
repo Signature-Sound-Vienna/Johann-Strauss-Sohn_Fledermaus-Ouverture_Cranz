@@ -47,7 +47,7 @@
             <application xml:id="app_audiveris" version="5.6.2">
                <name xml:id="n4vv2ra">Audiveris</name>
             </application>
-            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-18T14:52:55">
+            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-18T15:03:27">
                <name xml:id="nstv9yx1">mei-friend</name>
                <p xml:id="p0u2g3f">First edit by mei-friend 1.6.1.</p>
             </application>
@@ -11831,7 +11831,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="sl0gqc9" staff="1" startid="#nffbrxq2" endid="#npdy1h61"/>
-                           <dynam xml:id="dufccoo1" staff="1" place="below" tstamp="1">f</dynam>
+                           <dynam xml:id="dufccoo1" place="between" staff="1 2" tstamp="1">f</dynam>
                         </measure>
                         <measure xml:id="mhcoolu1" n="235" facs="#zttt99">
                            <staff xml:id="slwqid" n="1">
@@ -11895,7 +11895,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dhya474" staff="1" place="below" tstamp="1">mf</dynam>
+                           <dynam xml:id="dhya474" place="between" staff="1 2" tstamp="1">mf</dynam>
                         </measure>
                         <measure xml:id="mak18gi1" n="236" facs="#zlpibud1">
                            <staff xml:id="soca6cy1" n="1">
@@ -12782,7 +12782,7 @@
                               </layer>
                            </staff>
                         </measure>
-                        <measure xml:id="mf2cg4b" n="249" facs="#zgvo9q81">
+                        <measure xml:id="mf2cg4b" facs="#zgvo9q81" n="249">
                            <staff xml:id="srh92qq1" n="1">
                               <layer xml:id="lmb70z01" n="1">
                                  <note xml:id="nqpd4vv2" pname="d" oct="6" dur="8" grace="unacc" stem.mod="1slash">
@@ -12848,7 +12848,9 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <slur xml:id="st29nw4" staff="1" startid="#nqpd4vv2" endid="#c63hvnt1"/>
+                           <supplied xml:id="s30x4er2">
+                              <slur xml:id="st29nw4" staff="1" startid="#nqpd4vv2" endid="#c63hvnt1"/>
+                           </supplied>
                         </measure>
                         <measure xml:id="mh1581x1" n="250" facs="#zgyekzp2">
                            <staff xml:id="sp71zqu2" n="1">
@@ -13342,7 +13344,7 @@
                               </layer>
                            </staff>
                         </measure>
-                        <measure xml:id="m6pi6bl1" n="257" facs="#zczycaj1">
+                        <measure xml:id="m6pi6bl1" facs="#zczycaj1" n="257">
                            <staff xml:id="s9g0lyt1" n="1">
                               <layer xml:id="l3bnnov2" n="1">
                                  <note xml:id="nkxh9ms1" pname="d" oct="6" dur="8" grace="unacc" stem.mod="1slash">
@@ -13408,7 +13410,9 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <slur xml:id="sdkupb61" staff="1" startid="#nkxh9ms1" endid="#cxj7irc1"/>
+                           <supplied xml:id="s37z6ho2">
+                              <slur xml:id="sdkupb61" staff="1" startid="#nkxh9ms1" endid="#cxj7irc1"/>
+                           </supplied>
                         </measure>
                      </section>
                      <section xml:id="Durchführung-Eisenstein">
@@ -13467,7 +13471,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dsar6pt2" staff="1" place="below" tstamp="1">fp</dynam>
+                           <dynam xml:id="dsar6pt2" place="between" staff="1 2" tstamp="1">fp</dynam>
                         </measure>
                         <measure xml:id="mwou5n21" n="259" facs="#zahbso81">
                            <staff xml:id="smfzofw1" n="1">
@@ -14138,7 +14142,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="du79mea" staff="1" place="below" tstamp="1">ff</dynam>
+                           <dynam xml:id="du79mea" place="between" staff="1 2" tstamp="1">ff</dynam>
                            <tie xml:id="t5wxqzr2" staff="2" startid="#negmg5t1" endid="#nj09i6e"/>
                            <tie xml:id="tueg9801" staff="2" startid="#ngiifsu1" endid="#n7jw6rj1"/>
                            <tie xml:id="tn3ugmi1" staff="2" startid="#nd6uo0h" endid="#nsvz6h71"/>
@@ -14233,13 +14237,16 @@
                                  <mRest xml:id="me7bung1"/>
                               </layer>
                            </staff>
-                           <dir xml:id="dw33s5q1" staff="1" place="below" tstamp="1">G.P.</dir>
+                           <dir xml:id="dw33s5q1" place="above" staff="1" tstamp="1">G.P.</dir>
+                           <dir xml:id="du7dsb9" place="between" staff="1 2" tstamp="1.5">
+                              <rend fontstyle="normal" fontweight="bold" fontsize="x-large">1</rend>
+                           </dir>
                         </measure>
                         <measure xml:id="m8h25ai2" n="274" facs="#z0uj6aj2">
                            <staff xml:id="sxec4t41" n="1">
                               <layer xml:id="lw70hrj2" n="1">
+                                 <rest xml:id="rbafrfu1" dur="16"/>
                                  <beam xml:id="byfod7p1">
-                                    <rest xml:id="rbafrfu1" dur="16"/>
                                     <note xml:id="ngbo6lt1" pname="a" oct="4" dur="16">
                                        <artic xml:id="a5a5psr2" artic="stacc"/>
                                     </note>
@@ -14287,7 +14294,10 @@
                                  <mRest xml:id="mwio81k2"/>
                               </layer>
                            </staff>
-                           <dir xml:id="d92xezz2" staff="1" place="below" tstamp="1">G.P.</dir>
+                           <dir xml:id="d92xezz2" place="above" staff="1" tstamp="1">G.P.</dir>
+                           <dir xml:id="du7dsb7" place="between" staff="1 2" tstamp="1.5">
+                              <rend fontstyle="normal" fontweight="bold" fontsize="x-large">1</rend>
+                           </dir>
                         </measure>
                         <measure xml:id="m9qgo5q1" n="276" facs="#zevdi71">
                            <staff xml:id="s403krm1" n="1">
@@ -14309,7 +14319,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="drm05rc" staff="2" place="above" tstamp="1">p</dynam>
+                           <dynam xml:id="drm05rc" place="between" staff="1 2" tstamp="1">p</dynam>
                            <tie xml:id="tpb7lxm2" staff="2" startid="#n61s45f" endid="#n7w1dvd"/>
                            <tie xml:id="tkish561" staff="2" startid="#nsolu78" endid="#nxpx5m2"/>
                            <tie xml:id="tghg0hp2" staff="2" startid="#n3wpo35" endid="#nzo05gt1"/>
@@ -14373,7 +14383,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <tempo xml:id="tdnhdke" staff="1" place="above" tstamp="1">
+                           <tempo xml:id="tdnhdke" staff="1" place="above" tstamp="0">
                               <rend fontsize="x-large" fontweight="normal">Tempo ritenuto.</rend>
                            </tempo>
                         </measure>
@@ -14412,7 +14422,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="sdm7796" staff="1" startid="#no3yu6n2" endid="#n0kvpa8"/>
-                           <dynam xml:id="d98olya1" staff="1" place="below" tstamp="2">p</dynam>
+                           <dynam xml:id="d98olya1" place="below" staff="1" tstamp="2">p</dynam>
                         </measure>
                         <measure xml:id="mmu7qfe1" n="280" facs="#zp5c3bu1">
                            <staff xml:id="s074iot1" n="1">
@@ -14566,7 +14576,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="sqdjses1" staff="1" startid="#n658jo51" endid="#cfmvf2t2"/>
-                           <dynam xml:id="de4wbta1" place="between" staff="1 2" tstamp="2">pp</dynam>
+                           <dynam xml:id="de4wbta1" place="below" staff="1" tstamp="2">pp</dynam>
                         </measure>
                         <measure xml:id="mrvsdug" n="284" facs="#zsf00uc">
                            <staff xml:id="sqe8cv91" n="1">
@@ -15058,7 +15068,7 @@
                            </staff>
                            <slur xml:id="sqn7q3i1" staff="1" startid="#c33qc7p2" endid="#nrw7olh"/>
                         </measure>
-                        <measure xml:id="mssa7961" n="294" facs="#zidqtdt1">
+                        <measure xml:id="mssa7961" facs="#zidqtdt1" n="294">
                            <staff xml:id="sh1pyyp1" n="1">
                               <layer xml:id="li2ro8v1" n="1">
                                  <beam xml:id="b6ikl66">
@@ -15122,7 +15132,9 @@
                               </layer>
                            </staff>
                            <slur xml:id="s2u58n6" staff="1" startid="#cig9e1w2" endid="#no7u2881"/>
-                           <slur xml:id="s90ayc3" staff="1" startid="#nxuilcq1" endid="#cx0apxf"/>
+                           <supplied xml:id="sl7rzr41">
+                              <slur xml:id="s90ayc3" staff="1" startid="#nxuilcq1" endid="#cx0apxf"/>
+                           </supplied>
                         </measure>
                         <measure xml:id="mh0mdte" n="295" facs="#z3rlz8n2">
                            <staff xml:id="stbteth" n="1">
@@ -15818,8 +15830,9 @@
                            <slur xml:id="smsrbe" staff="1" startid="#nvr9yr61" endid="#n24p5931"/>
                            <mordent xml:id="mea5qqg1" staff="1" place="above" form="upper" startid="#nvr9yr61"/>
                            <slur xml:id="slw3fef1" staff="1" startid="#nlxo3h51" endid="#n38ye521"/>
-                           <dynam xml:id="d2mnz7p1" staff="2" place="above" tstamp="1">fz</dynam>
-                           <dynam xml:id="dhlm84g1" staff="1" place="below" tstamp="1.5">p</dynam>
+                           <dynam xml:id="d2mnz7p1" place="below" staff="2" tstamp="1">fz</dynam>
+                           <dynam xml:id="dhlm84g1" place="below" staff="1" tstamp="1.5">p</dynam>
+                           <mordent xml:id="mbl0cvd" place="above" form="upper" staff="1" startid="#nlxo3h51"/>
                         </measure>
                         <measure xml:id="m3adrkq2" n="309" facs="#zlvkavq2">
                            <staff xml:id="s2nzce31" n="1">
@@ -15941,8 +15954,8 @@
                               </layer>
                            </staff>
                            <slur xml:id="snojvih" staff="1" startid="#nu7ncxy1" endid="#n4ci72f"/>
-                           <dynam xml:id="detoi481" staff="1" place="below" tstamp="1">pp</dynam>
-                           <dir xml:id="d07eppt2" staff="1" place="below" tstamp="1.5">ritard.</dir>
+                           <dynam xml:id="detoi481" place="below" staff="1" tstamp="1" vgrp="1">pp</dynam>
+                           <dir xml:id="d07eppt2" place="below" staff="1" tstamp="1.5" vgrp="1">ritard.</dir>
                            <tie xml:id="tu4bog5" staff="1" startid="#n4ci72f" endid="#nogn14w1"/>
                            <tie xml:id="t7zr0sq1" staff="2" startid="#n6qgt0e1" endid="#np7y3cn2"/>
                            <tie xml:id="tlqcc8r2" staff="2" startid="#naqu3vm2" endid="#nto47bn1"/>
@@ -16015,7 +16028,7 @@
                            <tempo xml:id="tnmekmp2" staff="1" place="above" tstamp="1">
                               <rend fontsize="x-large" fontweight="normal">Tempo di valse.</rend>
                            </tempo>
-                           <dynam xml:id="dd86f141" staff="1" place="below" tstamp="1">p</dynam>
+                           <dynam xml:id="dd86f141" place="between" staff="1 2" tstamp="1">p</dynam>
                         </measure>
                         <measure xml:id="mt3lgmt1" n="315" facs="#zzait85">
                            <staff xml:id="scvi2a" n="1">
@@ -16054,7 +16067,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dir xml:id="d1ik2uv1" staff="1" place="below" tstamp="2">cresc. molto</dir>
+                           <dir xml:id="d1ik2uv1" place="between" staff="1 2" tstamp="2.5">cresc. molto</dir>
                         </measure>
                         <measure xml:id="mm9mq4m2" n="316" facs="#z7vm4da">
                            <staff xml:id="sck8ups2" n="1">
@@ -16173,7 +16186,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="d8edkkc" staff="1" place="below" tstamp="1">f</dynam>
+                           <dynam xml:id="d8edkkc" place="between" staff="1 2" tstamp="1">f</dynam>
                         </measure>
                         <measure xml:id="mvdkskq2" n="319" facs="#zutlr901">
                            <staff xml:id="s7qimyq2" n="1">
@@ -16304,7 +16317,7 @@
                               </layer>
                            </staff>
                         </measure>
-                        <measure xml:id="mfp5a071" n="322" facs="#ze9buoo2">
+                        <measure xml:id="mfp5a071" facs="#ze9buoo2" n="322">
                            <staff xml:id="ss39d33" n="1">
                               <layer xml:id="lb0lrao1" n="1">
                                  <note xml:id="nlq1vka" pname="g" oct="4" dur="8" grace="unacc" stem.mod="1slash">
@@ -16356,7 +16369,9 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <slur xml:id="stwdcg9" staff="1" startid="#nlq1vka" endid="#nkqoyfx1"/>
+                           <supplied xml:id="s4ta53b1" corresp="#s63vyyx1">
+                              <slur xml:id="stwdcg9" staff="1" startid="#nlq1vka" endid="#nkqoyfx1"/>
+                           </supplied>
                         </measure>
                         <measure xml:id="mxmgscs2" n="323" facs="#zrwhw791">
                            <staff xml:id="szlg6jt1" n="1">
@@ -16428,7 +16443,7 @@
                               </layer>
                            </staff>
                         </measure>
-                        <measure xml:id="m4qhz6k2" n="324" facs="#zcpkz73">
+                        <measure xml:id="m4qhz6k2" facs="#zcpkz73" n="324">
                            <staff xml:id="sbijoru2" n="1">
                               <layer xml:id="l7iggas2" n="1">
                                  <note xml:id="n8s6rde" pname="g" oct="4" dur="8" grace="unacc" stem.mod="1slash">
@@ -16472,7 +16487,9 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <slur xml:id="sfyoejm1" staff="1" startid="#n8s6rde" endid="#n2l5aqq1"/>
+                           <supplied xml:id="s63vyyx1" corresp="#s4ta53b1">
+                              <slur xml:id="sfyoejm1" staff="1" startid="#n8s6rde" endid="#n2l5aqq1"/>
+                           </supplied>
                         </measure>
                         <measure xml:id="mj2r3rl2" n="325" facs="#zhk78rb1">
                            <staff xml:id="si4hvgn1" n="1">
@@ -16625,7 +16642,7 @@
                                     <note xml:id="nwra2fp2" pname="f" oct="4">
                                        <accid xml:id="a2cnfwk1" accid.ges="s"/>
                                     </note>
-                                    <artic xml:id="asstzm31" artic="acc"/>
+                                    <artic xml:id="asstzm31" artic="acc" place="above"/>
                                  </chord>
                               </layer>
                            </staff>
@@ -16666,7 +16683,7 @@
                                     <note xml:id="nvji12o1" pname="g" oct="4">
                                        <accid xml:id="ane0p4j2" accid.ges="s"/>
                                     </note>
-                                    <artic xml:id="asqkx9o1" artic="acc"/>
+                                    <artic xml:id="asqkx9o1" artic="acc" place="above"/>
                                  </chord>
                               </layer>
                            </staff>
@@ -16984,7 +17001,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="ddlrvzi2" staff="1" place="below" tstamp="1">ff</dynam>
+                           <dynam xml:id="ddlrvzi2" place="between" staff="1 2" tstamp="1">ff</dynam>
                         </measure>
                         <measure xml:id="mjjj09" n="335" facs="#zhbho131">
                            <staff xml:id="st89v8d" n="1">
@@ -17821,7 +17838,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="d3ihkdy1" staff="1" place="below" tstamp="1">f</dynam>
+                           <dynam xml:id="d3ihkdy1" place="above" staff="2" tstamp="1.4">f</dynam>
                         </measure>
                         <measure xml:id="mk4rkq71" n="352" facs="#zbyka03">
                            <staff xml:id="scnsgo11" n="1">
@@ -18008,7 +18025,7 @@
                                  <rest xml:id="r7uvd4m1" dur="8"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dbgrwbr1" staff="1" place="below" tstamp="1">ff</dynam>
+                           <dynam xml:id="dbgrwbr1" place="between" staff="1 2" tstamp="1">ff</dynam>
                         </measure>
                         <measure xml:id="mwodq0a1" n="356" facs="#z6d4ocr2">
                            <staff xml:id="svln5q91" n="1">
@@ -18585,7 +18602,6 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <slur xml:id="s4cuirm2" staff="1" startid="#ndltr4w2" endid="#ckc33ux2"/>
                         </measure>
                         <measure xml:id="moe4fhu1" n="363" facs="#zgeci461">
                            <staff xml:id="s7l7az51" n="1">
@@ -19036,7 +19052,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="d0a4wla1" staff="1" place="below" tstamp="2.5">p</dynam>
+                           <dynam xml:id="d0a4wla1" place="between" staff="1 2" tstamp="2.5">p</dynam>
                         </measure>
                         <measure xml:id="mxaph9o2" n="371" facs="#zr198kn1">
                            <staff xml:id="sw1f68d" n="1">
@@ -19048,7 +19064,7 @@
                                           <accid xml:id="a9n0wny2" accid.ges="s"/>
                                        </note>
                                        <note xml:id="nqf1knp2" pname="e" oct="4"/>
-                                       <artic xml:id="abctod11" artic="acc"/>
+                                       <artic xml:id="abctod11" artic="acc" place="above"/>
                                     </chord>
                                     <chord xml:id="c0ihyvw2" dur="16">
                                        <note xml:id="nfuzg0c" pname="a" oct="3"/>
@@ -19103,7 +19119,7 @@
                                        <note xml:id="n8lzvie" pname="f" oct="4">
                                           <accid xml:id="axbo8i2" accid.ges="s"/>
                                        </note>
-                                       <artic xml:id="a94dkdz1" artic="acc"/>
+                                       <artic xml:id="a94dkdz1" artic="acc" place="above"/>
                                     </chord>
                                     <chord xml:id="cqz1zat2" dur="16">
                                        <note xml:id="ns9eyn21" pname="g" oct="3">
@@ -19243,7 +19259,7 @@
                                           <accid xml:id="ac7z1ce" accid.ges="s"/>
                                        </note>
                                        <note xml:id="nqiztii1" pname="e" oct="4"/>
-                                       <artic xml:id="af504ex1" artic="acc"/>
+                                       <artic xml:id="af504ex1" artic="acc" place="above"/>
                                     </chord>
                                     <chord xml:id="cyujyqj1" dur="16">
                                        <note xml:id="n9j1yec1" pname="a" oct="3"/>
@@ -19299,7 +19315,7 @@
                                        <note xml:id="nzkqwkw2" pname="f" oct="4">
                                           <accid xml:id="af0lod31" accid.ges="s"/>
                                        </note>
-                                       <artic xml:id="af2fup01" artic="acc"/>
+                                       <artic xml:id="af2fup01" artic="acc" place="above"/>
                                     </chord>
                                     <chord xml:id="c03goq4" dur="16">
                                        <note xml:id="nqhl3qb1" pname="g" oct="3">
@@ -19427,7 +19443,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="smgo5df1" staff="1" startid="#nlgwavh" endid="#nljmo8x2"/>
-                           <dynam xml:id="d5a6hxh" staff="1" place="below" tstamp="1">f</dynam>
+                           <dynam xml:id="d5a6hxh" place="between" staff="1 2" tstamp="1.5">f</dynam>
                         </measure>
                         <measure xml:id="mdme60q2" n="379" facs="#znusk0q2">
                            <staff xml:id="shjb78p1" n="1">
@@ -19912,7 +19928,7 @@
                            <tempo xml:id="tq18um9" staff="1" place="above" tstamp="1">
                               <rend fontsize="x-large" fontweight="normal">Più vivo.</rend>
                            </tempo>
-                           <dynam xml:id="dnica7h1" staff="1" place="below" tstamp="1">f</dynam>
+                           <dynam xml:id="dnica7h1" place="between" staff="1 2" tstamp="1">f</dynam>
                         </measure>
                         <measure xml:id="m29alt5" n="387" facs="#zgfcglc">
                            <staff xml:id="st3anjz1" n="1">
@@ -20311,7 +20327,7 @@
                                  </fTrem>
                               </layer>
                            </staff>
-                           <dynam xml:id="d0c9jmf1" staff="1" place="below" tstamp="1">fz</dynam>
+                           <dynam xml:id="d0c9jmf1" place="between" staff="1 2" tstamp="1">fz</dynam>
                         </measure>
                         <measure xml:id="mz40l6s2" n="395" facs="#z5olkvb1">
                            <staff xml:id="slb55pd1" n="1">
@@ -20712,8 +20728,8 @@
                                  </note>
                               </layer>
                            </staff>
-                           <dir xml:id="d9evo9h" staff="1" place="below" tstamp="1">staccato</dir>
-                           <dynam xml:id="drlzvks2" staff="2" place="above" tstamp="1">p</dynam>
+                           <dir xml:id="d9evo9h" place="above" staff="1" tstamp="1">staccato</dir>
+                           <dynam xml:id="drlzvks2" place="between" staff="1 2" tstamp="1">p</dynam>
                         </measure>
                         <measure xml:id="m9m6vc4" n="403" facs="#zz1dnno2">
                            <staff xml:id="s2jrd6j1" n="1">
@@ -20914,7 +20930,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dszdlje" staff="1" place="below" tstamp="1">ff</dynam>
+                           <dynam xml:id="dszdlje" place="between" staff="1 2" tstamp="1">ff</dynam>
                         </measure>
                         <measure xml:id="m3l6wqd" n="407" facs="#zdiqc8p2">
                            <staff xml:id="si5uh8u2" n="1">
@@ -21232,7 +21248,7 @@
                                     <note xml:id="nxdj7mx1" pname="g" oct="3">
                                        <accid xml:id="ao7ovnn1" accid.ges="s"/>
                                     </note>
-                                    <artic xml:id="afvrc6y2" artic="acc"/>
+                                    <artic xml:id="afvrc6y2" artic="acc" place="above"/>
                                  </chord>
                                  <chord xml:id="c3l8xp51" dur="8">
                                     <note xml:id="nws659p1" pname="f" oct="2">
@@ -21273,7 +21289,7 @@
                                     <note xml:id="nc2h0r2" pname="c" oct="3">
                                        <accid xml:id="adm0mul2" accid.ges="s"/>
                                     </note>
-                                    <artic xml:id="a8puih7" artic="acc"/>
+                                    <artic xml:id="a8puih7" artic="acc" place="above"/>
                                  </chord>
                                  <chord xml:id="cq4oqff" dur="8">
                                     <note xml:id="nbdzxx81" pname="b" oct="1"/>
