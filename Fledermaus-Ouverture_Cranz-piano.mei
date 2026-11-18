@@ -40,8 +40,14 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc xml:id="ejovofi2">
-         <appInfo xml:id="atmotdf">
-            <application xml:id="ah5tp4u2" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-16T22:31:25">
+         <appInfo xml:id="app-claude-faible">
+            <application startdate="2026-11-16T21:00:11" enddate="2026-11-16T21:31:25" version="5.2">
+               <name>Claude Faible (Anthropic)</name>
+            </application>
+            <application xml:id="app_audiveris" version="5.6.2">
+               <name>Audiveris</name>
+            </application>
+            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-16T22:31:25">
                <name xml:id="nstv9yx1">mei-friend</name>
                <p xml:id="p0u2g3f">First edit by mei-friend 1.6.1.</p>
             </application>
