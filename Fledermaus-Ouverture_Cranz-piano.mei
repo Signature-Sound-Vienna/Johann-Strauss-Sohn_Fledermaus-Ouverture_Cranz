@@ -47,7 +47,7 @@
             <application xml:id="app_audiveris" version="5.6.2">
                <name xml:id="n4vv2ra">Audiveris</name>
             </application>
-            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-18T14:08:35">
+            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-18T14:39:15">
                <name xml:id="nstv9yx1">mei-friend</name>
                <p xml:id="p0u2g3f">First edit by mei-friend 1.6.1.</p>
             </application>
@@ -6972,7 +6972,8 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dir xml:id="dwawvlg" staff="1" place="below" tstamp="1">crescendo</dir>
+                           <dir xml:id="dwawvl1" place="below" staff="1" tstamp="1" tstamp2="3" vgrp="1">cre</dir>
+                           <dir xml:id="dwawvl2" place="below" staff="1" tstamp="2.5" tstamp2="1m+1" vgrp="1">scen</dir>
                         </measure>
                         <sb xml:id="skzdnyo1"/>
                         <measure xml:id="mm7ux621" n="124" facs="#zcc7unf">
@@ -7008,7 +7009,8 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dir xml:id="d5cz1lq2" staff="1" place="below" tstamp="1">molto</dir>
+                           <dir xml:id="dwawvl3" place="below" staff="1" tstamp="1" vgrp="1">do</dir>
+                           <dir xml:id="dwawvl4" place="below" staff="1" tstamp="2" vgrp="1">molto</dir>
                         </measure>
                         <measure xml:id="miahx0c" n="125" facs="#zkg26gm1">
                            <staff xml:id="sbyqm201" n="1">
@@ -7075,8 +7077,8 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dir xml:id="d9sgf1o1" staff="1" place="below" tstamp="1">staccato</dir>
-                           <dynam xml:id="dynzhmx2" staff="1" place="below" tstamp="1">f</dynam>
+                           <dir xml:id="d9sgf1o1" place="above" staff="1" tstamp="1">staccato</dir>
+                           <dynam xml:id="dynzhmx2" place="between" staff="1 2" tstamp="1">f</dynam>
                         </measure>
                         <measure xml:id="mn447xd" n="127" facs="#zfdjbxi1">
                            <staff xml:id="s0dmqkw2" n="1">
@@ -7128,7 +7130,7 @@
                                     <note xml:id="nwa47ph1" pname="g" oct="3"/>
                                     <note xml:id="nn301s31" pname="b" oct="3"/>
                                     <note xml:id="nonnsa" pname="e" oct="4"/>
-                                    <artic xml:id="a9v9t8w2" artic="acc"/>
+                                    <artic xml:id="a9v9t8w2" artic="acc" place="above"/>
                                  </chord>
                               </layer>
                            </staff>
@@ -7157,7 +7159,7 @@
                                  <chord xml:id="ctfq6dp2" dur="2" dots="1">
                                     <note xml:id="nmqod45" pname="c" oct="4"/>
                                     <note xml:id="n8tgomg" pname="e" oct="4"/>
-                                    <artic xml:id="aiu3dhl2" artic="acc"/>
+                                    <artic xml:id="aiu3dhl2" artic="acc" place="above"/>
                                  </chord>
                               </layer>
                            </staff>
@@ -7267,7 +7269,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dtg69jv1" staff="1" place="below" tstamp="1">fz</dynam>
+                           <dynam xml:id="dtg69jv1" place="between" staff="1 2" tstamp=".0">fz</dynam>
                         </measure>
                         <measure xml:id="mwt39fx1" n="132" facs="#z0guv461">
                            <staff xml:id="sgve2bc" n="1">
