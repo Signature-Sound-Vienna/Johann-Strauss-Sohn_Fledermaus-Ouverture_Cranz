@@ -606,7 +606,9 @@
                            <note xml:id="n90gsna" pname="a" oct="3" dur="8"/>
                         </layer>
                      </staff>
-                     <tempo xml:id="tivkoa5" staff="1" place="above" tstamp="1">Allegro vivace.</tempo>
+                     <tempo xml:id="tivkoa5" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Allegro vivace.</rend>
+                     </tempo>
                      <dynam xml:id="d9brvas2" staff="1" place="below" tstamp="1">f</dynam>
                   </measure>
                   <measure xml:id="mhnd3bv1" n="2" facs="#zzt0g8t2">
@@ -1509,7 +1511,9 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tempo xml:id="tpaso0i2" staff="1" place="above" tstamp="1">Allegretto.</tempo>
+                     <tempo xml:id="tpaso0i2" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Allegretto.</rend>
+                     </tempo>
                      <slur xml:id="s8aoeh71" staff="2" startid="#cm5ps1b1" endid="#cmdhq3w2"/>
                      <dynam xml:id="dsxaw0f1" staff="2" place="above" tstamp="1">p</dynam>
                   </measure>
@@ -2889,7 +2893,9 @@
                            <note xml:id="n3je2ql1" pname="d" oct="4" dur="8"/>
                         </layer>
                      </staff>
-                     <tempo xml:id="tjnv4am1" staff="1" place="above" tstamp="1">Tempo I.</tempo>
+                     <tempo xml:id="tjnv4am1" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Tempo I.</rend>
+                     </tempo>
                      <dynam xml:id="d7bo5v11" place="between" staff="1 2" tstamp="1">f</dynam>
                   </measure>
                   <measure xml:id="mzn2p7l1" n="34" facs="#z9owldn1">
@@ -3438,7 +3444,9 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tempo xml:id="tubjlkc1" staff="1" place="above" tstamp="1">Lento.</tempo>
+                     <tempo xml:id="tubjlkc1" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Lento.</rend>
+                     </tempo>
                      <dynam xml:id="dq6ooes2" place="between" staff="1 2" tstamp="1">fp</dynam>
                      <dir xml:id="dy5fzo5" staff="1" place="below" tstamp="2">Glocke.</dir>
                   </measure>
@@ -3592,7 +3600,9 @@
                            <rest xml:id="rg21ges2" dur="8"/>
                         </layer>
                      </staff>
-                     <tempo xml:id="tjspnih" staff="1" place="above" tstamp="1">Allegretto.</tempo>
+                     <tempo xml:id="tjspnih" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Allegretto.</rend>
+                     </tempo>
                      <dynam xml:id="dwx8w2k1" staff="2" place="above" tstamp="1">pp</dynam>
                   </measure>
                   <measure xml:id="mq12gy8" n="48" facs="#zuas9561">
@@ -4400,7 +4410,9 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dlg457v1" place="between" staff="1 2" tstamp="1">f</dynam>
-                     <tempo xml:id="tq355k71" staff="1" startid="#njqjikw2">Allegretto.</tempo>
+                     <tempo xml:id="tq355k71" staff="1" startid="#njqjikw2">
+                        <rend fontsize="x-large">Allegretto.</rend>
+                     </tempo>
                   </measure>
                   <measure xml:id="mszrvs61" n="70" facs="#zq46t3u2">
                      <staff xml:id="s2hp4g81" n="1">
@@ -6886,7 +6898,9 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="t9u7nk8" staff="1" place="above" tstamp="1">Tempo di valse.</tempo>
+                     <tempo xml:id="t9u7nk8" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Tempo di valse.</rend>
+                     </tempo>
                      <dynam xml:id="dx531hx1" place="between" staff="1 2" tstamp="1">pp</dynam>
                   </measure>
                   <measure xml:id="mspxlzc1" n="123" facs="#z72qpxp2">
@@ -9332,7 +9346,9 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="t76dwpc1" staff="1" place="above" tstamp="1">Allegro.</tempo>
+                     <tempo xml:id="t76dwpc1" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Allegro.</rend>
+                     </tempo>
                      <dynam xml:id="dynqzya" staff="1" place="below" tstamp="1">ff</dynam>
                   </measure>
                   <measure xml:id="mnacpr41" n="182" facs="#zgbuj2y2">
@@ -10083,7 +10099,9 @@
                            <note xml:id="nqn6hra" pname="b" oct="3" dur="2" dots="1"/>
                         </layer>
                      </staff>
-                     <tempo xml:id="tynnnxn2" staff="1" place="above" tstamp="1">Andante.</tempo>
+                     <tempo xml:id="tynnnxn2" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Andante.</rend>
+                     </tempo>
                      <dynam xml:id="dl8rms51" staff="1" place="below" tstamp="3.5">p</dynam>
                   </measure>
                   <measure xml:id="mmjbiom2" n="200" facs="#z8g5caa">
@@ -11345,7 +11363,9 @@
                            <clef xml:id="c364bp81" shape="F" line="4"/>
                         </layer>
                      </staff>
-                     <tempo xml:id="tb30h3o2" staff="1" place="above" tstamp="1">Allegro moderato.</tempo>
+                     <tempo xml:id="tb30h3o2" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Allegro moderato.</rend>
+                     </tempo>
                      <tie xml:id="tk8kpgy1" staff="1" startid="#n2z3pjv1" endid="#nrj61t61"/>
                   </measure>
                   <measure xml:id="moa3g0b1" n="226" facs="#zt3aejh1">
@@ -14295,7 +14315,9 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="tdnhdke" staff="1" place="above" tstamp="1">Tempo ritenuto.</tempo>
+                     <tempo xml:id="tdnhdke" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Tempo ritenuto.</rend>
+                     </tempo>
                   </measure>
                   <measure xml:id="meeyh7q2" n="279" facs="#z8sb6621">
                      <staff xml:id="s4dbmzt2" n="1">
@@ -15930,7 +15952,9 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="tnmekmp2" staff="1" place="above" tstamp="1">Tempo di valse.</tempo>
+                     <tempo xml:id="tnmekmp2" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Tempo di valse.</rend>
+                     </tempo>
                      <dynam xml:id="dd86f141" staff="1" place="below" tstamp="1">p</dynam>
                   </measure>
                   <measure xml:id="mt3lgmt1" n="315" facs="#zzait85">
@@ -19815,7 +19839,9 @@
                            </fTrem>
                         </layer>
                      </staff>
-                     <tempo xml:id="tq18um9" staff="1" place="above" tstamp="1">Più vivo.</tempo>
+                     <tempo xml:id="tq18um9" staff="1" place="above" tstamp="1">
+                        <rend fontsize="x-large">Più vivo.</rend>
+                     </tempo>
                      <dynam xml:id="dnica7h1" staff="1" place="below" tstamp="1">f</dynam>
                   </measure>
                   <measure xml:id="m29alt5" n="387" facs="#zgfcglc">
