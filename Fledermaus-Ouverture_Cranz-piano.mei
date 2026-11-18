@@ -9961,86 +9961,90 @@
                               </layer>
                            </staff>
                         </measure>
-                        <supplied xml:id="stth2zx" reason="Measures omitted in the piano score (cut by the arranger); condensed from the orchestral score, Eulenburg mm. 194-195" source="#swu9e3r1" resp="#p8dkwhg">
-                           <measure xml:id="mpwg02e" n="193a">
-                              <staff xml:id="s5k3ph4" n="1">
-                                 <layer xml:id="lfexref" n="1">
-                                    <rest xml:id="r0cx2pr" dur="8"/>
-                                    <beam xml:id="bl009v0">
-                                       <chord xml:id="cka8voh" dur="16">
-                                          <note xml:id="nblltlc" pname="f" oct="4">
-                                             <accid xml:id="ani07rk" accid.ges="s"/>
-                                          </note>
-                                          <note xml:id="n7az5zi" pname="a" oct="4"/>
-                                       </chord>
-                                       <chord xml:id="c0n4alf" dur="16">
-                                          <note xml:id="nwaydk9" pname="g" oct="4">
-                                             <accid xml:id="a639fix" accid="n"/>
-                                          </note>
-                                          <note xml:id="noc1a39" pname="b" oct="4"/>
-                                       </chord>
-                                       <chord xml:id="cq1278s" dur="8">
-                                          <note xml:id="n078buh" pname="a" oct="4"/>
-                                          <note xml:id="ncnrjd9" pname="c" oct="5">
-                                             <accid xml:id="a7at0wr" accid="n"/>
-                                          </note>
-                                       </chord>
-                                    </beam>
-                                    <rest xml:id="r79kfr4" dur="8"/>
-                                 </layer>
-                              </staff>
-                              <staff xml:id="solalrw" n="2">
-                                 <layer xml:id="l4c3xtx" n="1">
-                                    <note xml:id="nczvutz" pname="b" oct="1" dur="8"/>
-                                    <rest xml:id="rete7we" dur="8"/>
-                                    <rest xml:id="rc7c9aq" dur="8"/>
-                                    <beam xml:id="b92rgg7">
-                                       <note xml:id="nzdzwab" pname="b" oct="1" dur="16"/>
-                                       <note xml:id="nrtuj8n" pname="b" oct="2" dur="16"/>
-                                    </beam>
-                                 </layer>
-                              </staff>
-                           </measure>
-                           <measure xml:id="mkefphw" n="193b">
-                              <staff xml:id="szdvzbm" n="1">
-                                 <layer xml:id="lbpm7nr" n="1">
-                                    <rest xml:id="rhbsncr" dur="8"/>
-                                    <beam xml:id="buc0ubs">
-                                       <chord xml:id="cmy6gox" dur="16">
-                                          <note xml:id="np8biiy" pname="e" oct="4"/>
-                                          <note xml:id="nzx69ol" pname="g" oct="4">
-                                             <accid xml:id="a2wtd1d" accid="n"/>
-                                          </note>
-                                       </chord>
-                                       <chord xml:id="csu854b" dur="16">
-                                          <note xml:id="ny8hjdp" pname="f" oct="4">
-                                             <accid xml:id="aed7mes" accid.ges="s"/>
-                                          </note>
-                                          <note xml:id="n2caipj" pname="a" oct="4"/>
-                                       </chord>
-                                       <chord xml:id="c9l85vz" dur="8">
-                                          <note xml:id="npkfnza" pname="g" oct="4">
-                                             <accid xml:id="arffhvl" accid="n"/>
-                                          </note>
-                                          <note xml:id="ntxfv4b" pname="b" oct="4"/>
-                                       </chord>
-                                    </beam>
-                                    <rest xml:id="r8ywpgk" dur="8"/>
-                                 </layer>
-                              </staff>
-                              <staff xml:id="sx77z7a" n="2">
-                                 <layer xml:id="lnk38so" n="1">
-                                    <note xml:id="ncx43w6" pname="b" oct="1" dur="8"/>
-                                    <rest xml:id="r8cna8r" dur="8"/>
-                                    <rest xml:id="ruupguw" dur="8"/>
-                                    <beam xml:id="bhkesdp">
-                                       <note xml:id="nqxhfho" pname="b" oct="1" dur="16"/>
-                                       <note xml:id="np9pkyx" pname="b" oct="2" dur="16"/>
-                                    </beam>
-                                 </layer>
-                              </staff>
-                           </measure>
-                        </supplied>
+                        <app xml:id="stth2zx">
+                           <lem xml:id="l5zi2w1" source="#s5lrnxi1"/>
+                           <rdg xml:id="rx3q5e7" source="#swu9e3r1" resp="#p8dkwhg">
+                              <annot xml:id="a19g9xl">Measures omitted in the piano score (cut by the arranger); condensed from the orchestral score, Eulenburg mm. 194-195</annot>
+                              <measure xml:id="mpwg02e" n="193a">
+                                 <staff xml:id="s5k3ph4" n="1">
+                                    <layer xml:id="lfexref" n="1">
+                                       <rest xml:id="r0cx2pr" dur="8"/>
+                                       <beam xml:id="bl009v0">
+                                          <chord xml:id="cka8voh" dur="16">
+                                             <note xml:id="nblltlc" pname="f" oct="4">
+                                                <accid xml:id="ani07rk" accid.ges="s"/>
+                                             </note>
+                                             <note xml:id="n7az5zi" pname="a" oct="4"/>
+                                          </chord>
+                                          <chord xml:id="c0n4alf" dur="16">
+                                             <note xml:id="nwaydk9" pname="g" oct="4">
+                                                <accid xml:id="a639fix" accid="n"/>
+                                             </note>
+                                             <note xml:id="noc1a39" pname="b" oct="4"/>
+                                          </chord>
+                                          <chord xml:id="cq1278s" dur="8">
+                                             <note xml:id="n078buh" pname="a" oct="4"/>
+                                             <note xml:id="ncnrjd9" pname="c" oct="5">
+                                                <accid xml:id="a7at0wr" accid="n"/>
+                                             </note>
+                                          </chord>
+                                       </beam>
+                                       <rest xml:id="r79kfr4" dur="8"/>
+                                    </layer>
+                                 </staff>
+                                 <staff xml:id="solalrw" n="2">
+                                    <layer xml:id="l4c3xtx" n="1">
+                                       <note xml:id="nczvutz" pname="b" oct="1" dur="8"/>
+                                       <rest xml:id="rete7we" dur="8"/>
+                                       <rest xml:id="rc7c9aq" dur="8"/>
+                                       <beam xml:id="b92rgg7">
+                                          <note xml:id="nzdzwab" pname="b" oct="1" dur="16"/>
+                                          <note xml:id="nrtuj8n" pname="b" oct="2" dur="16"/>
+                                       </beam>
+                                    </layer>
+                                 </staff>
+                              </measure>
+                              <measure xml:id="mkefphw" n="193b">
+                                 <staff xml:id="szdvzbm" n="1">
+                                    <layer xml:id="lbpm7nr" n="1">
+                                       <rest xml:id="rhbsncr" dur="8"/>
+                                       <beam xml:id="buc0ubs">
+                                          <chord xml:id="cmy6gox" dur="16">
+                                             <note xml:id="np8biiy" pname="e" oct="4"/>
+                                             <note xml:id="nzx69ol" pname="g" oct="4">
+                                                <accid xml:id="a2wtd1d" accid="n"/>
+                                             </note>
+                                          </chord>
+                                          <chord xml:id="csu854b" dur="16">
+                                             <note xml:id="ny8hjdp" pname="f" oct="4">
+                                                <accid xml:id="aed7mes" accid.ges="s"/>
+                                             </note>
+                                             <note xml:id="n2caipj" pname="a" oct="4"/>
+                                          </chord>
+                                          <chord xml:id="c9l85vz" dur="8">
+                                             <note xml:id="npkfnza" pname="g" oct="4">
+                                                <accid xml:id="arffhvl" accid="n"/>
+                                             </note>
+                                             <note xml:id="ntxfv4b" pname="b" oct="4"/>
+                                          </chord>
+                                       </beam>
+                                       <rest xml:id="r8ywpgk" dur="8"/>
+                                    </layer>
+                                 </staff>
+                                 <staff xml:id="sx77z7a" n="2">
+                                    <layer xml:id="lnk38so" n="1">
+                                       <note xml:id="ncx43w6" pname="b" oct="1" dur="8"/>
+                                       <rest xml:id="r8cna8r" dur="8"/>
+                                       <rest xml:id="ruupguw" dur="8"/>
+                                       <beam xml:id="bhkesdp">
+                                          <note xml:id="nqxhfho" pname="b" oct="1" dur="16"/>
+                                          <note xml:id="np9pkyx" pname="b" oct="2" dur="16"/>
+                                       </beam>
+                                    </layer>
+                                 </staff>
+                              </measure>
+                           </rdg>
+                        </app>
                         <measure xml:id="mrcwh57" n="194" facs="#z41ggct2">
                            <staff xml:id="se3ro2y2" n="1">
                               <layer xml:id="lahihx41" n="1">
