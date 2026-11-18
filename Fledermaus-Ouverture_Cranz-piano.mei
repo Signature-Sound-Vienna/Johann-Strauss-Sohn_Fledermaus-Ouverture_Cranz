@@ -47,7 +47,7 @@
             <application xml:id="app_audiveris" version="5.6.2">
                <name xml:id="n4vv2ra">Audiveris</name>
             </application>
-            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-18T15:08:33">
+            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.2" enddate="2026-11-18T20:45:07">
                <name xml:id="nstv9yx1">mei-friend</name>
                <p xml:id="p0u2g3f">First edit by mei-friend 1.6.1.</p>
             </application>
@@ -10822,9 +10822,9 @@
                               </layer>
                            </staff>
                            <slur xml:id="si88ryc1" staff="1" startid="#cib7up4" endid="#c8c2q1z2"/>
-                           <slur xml:id="sd2ivlc1" staff="2" startid="#n0cg7we" endid="#ny8yna81"/>
                            <dynam xml:id="dq0mks61" place="below" staff="1" tstamp="1" vgrp="1">f</dynam>
                            <dir xml:id="d2bwyk01" place="below" staff="1" tstamp="1.25" vgrp="1">rit.</dir>
+                           <slur xml:id="s63471h1" endid="#nqxwnme1" staff="2" startid="#n0cg7we"/>
                         </measure>
                         <measure xml:id="mso799p1" n="213" facs="#z4s2jwz1">
                            <staff xml:id="sifrkwe" n="1">
