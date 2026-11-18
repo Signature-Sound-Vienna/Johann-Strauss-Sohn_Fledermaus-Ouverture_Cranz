@@ -47,7 +47,7 @@
             <application xml:id="app_audiveris" version="5.6.2">
                <name xml:id="n4vv2ra">Audiveris</name>
             </application>
-            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-18T15:03:27">
+            <application xml:id="app-mei-friend" startdate="2026-11-16T21:15:22" version="1.6.1" enddate="2026-11-18T15:08:33">
                <name xml:id="nstv9yx1">mei-friend</name>
                <p xml:id="p0u2g3f">First edit by mei-friend 1.6.1.</p>
             </application>
@@ -531,6 +531,14 @@
                      </rend>
                      <rend xml:id="r96jlza" halign="right">Johann Strauss.</rend>
                   </pgHead>
+                  <pgFoot xml:id="pblbk6y1" func="first">
+                     <rend xml:id="rifmbts2" fontweight="bold" halign="left">Leipzig, Aug. Cranz G.m.b.H.</rend>
+                     <rend xml:id="r0q8bhd1" fontweight="bold" halign="center">C. 43053</rend>
+                     <rend xml:id="rnc4jbf" fontweight="bold" halign="right">Aufführungsrechte vorbehalten.</rend>
+                  </pgFoot>
+                  <pgFoot xml:id="p3k3viz2" func="all">
+                     <rend xml:id="r0rld0f1" fontweight="bold" halign="center">C. 43053</rend>
+                  </pgFoot>
                   <staffGrp xml:id="szcsgq41" bar.thru="true">
                      <grpSym xml:id="ggb9ml9" symbol="brace"/>
                      <label xml:id="lj9605r1">
@@ -609,7 +617,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tivkoa5" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Allegro vivace.</rend>
+                              <rend xml:id="rxdkxtw2" fontsize="x-large" fontweight="normal">Allegro vivace.</rend>
                            </tempo>
                            <dynam xml:id="d9brvas2" staff="1" place="below" tstamp="1">f</dynam>
                         </measure>
@@ -1516,7 +1524,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tpaso0i2" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Allegretto.</rend>
+                              <rend xml:id="rjv5rge" fontsize="x-large" fontweight="normal">Allegretto.</rend>
                            </tempo>
                            <slur xml:id="s8aoeh71" staff="2" startid="#cm5ps1b1" endid="#cmdhq3w2"/>
                            <dynam xml:id="dsxaw0f1" staff="2" place="above" tstamp="1">p</dynam>
@@ -2900,7 +2908,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tjnv4am1" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Tempo I.</rend>
+                              <rend xml:id="rxsh8ef1" fontsize="x-large" fontweight="normal">Tempo I.</rend>
                            </tempo>
                            <dynam xml:id="d7bo5v11" place="between" staff="1 2" tstamp="1">f</dynam>
                         </measure>
@@ -3453,7 +3461,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tubjlkc1" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Lento.</rend>
+                              <rend xml:id="rhv6btu2" fontsize="x-large" fontweight="normal">Lento.</rend>
                            </tempo>
                            <dynam xml:id="dq6ooes2" place="between" staff="1 2" tstamp="1">fp</dynam>
                            <dir xml:id="dy5fzo5" staff="1" place="below" tstamp="2">Glocke.</dir>
@@ -3611,7 +3619,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tjspnih" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Allegretto.</rend>
+                              <rend xml:id="rj1g8lp2" fontsize="x-large" fontweight="normal">Allegretto.</rend>
                            </tempo>
                            <dynam xml:id="dwx8w2k1" staff="2" place="above" tstamp="1">pp</dynam>
                         </measure>
@@ -4423,7 +4431,7 @@
                            </staff>
                            <dynam xml:id="dlg457v1" place="between" staff="1 2" tstamp="1">f</dynam>
                            <tempo xml:id="tq355k71" staff="1" startid="#njqjikw2">
-                              <rend fontsize="x-large" fontweight="normal">Allegretto.</rend>
+                              <rend xml:id="r2z25fb1" fontsize="x-large" fontweight="normal">Allegretto.</rend>
                            </tempo>
                         </measure>
                         <measure xml:id="mszrvs61" n="70" facs="#zq46t3u2">
@@ -6917,7 +6925,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="t9u7nk8" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Tempo di valse.</rend>
+                              <rend xml:id="rp1j70p2" fontsize="x-large" fontweight="normal">Tempo di valse.</rend>
                            </tempo>
                            <dynam xml:id="dx531hx1" place="between" staff="1 2" tstamp="1">pp</dynam>
                         </measure>
@@ -9383,7 +9391,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="t76dwpc1" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Allegro.</rend>
+                              <rend xml:id="r8zuvvn1" fontsize="x-large" fontweight="normal">Allegro.</rend>
                            </tempo>
                            <dynam xml:id="dynqzya" place="between" staff="1 2" tstamp="1">ff</dynam>
                         </measure>
@@ -10138,7 +10146,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tynnnxn2" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Andante.</rend>
+                              <rend xml:id="ruy11bm1" fontsize="x-large" fontweight="normal">Andante.</rend>
                            </tempo>
                            <dynam xml:id="dl8rms51" place="between" staff="1 2" tstamp="3.5">p</dynam>
                         </measure>
@@ -11412,7 +11420,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tb30h3o2" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Allegro moderato.</rend>
+                              <rend xml:id="rp885k91" fontsize="x-large" fontweight="normal">Allegro moderato.</rend>
                            </tempo>
                            <tie xml:id="tk8kpgy1" staff="1" startid="#n2z3pjv1" endid="#nrj61t61"/>
                         </measure>
@@ -14239,7 +14247,7 @@
                            </staff>
                            <dir xml:id="dw33s5q1" place="above" staff="1" tstamp="1">G.P.</dir>
                            <dir xml:id="du7dsb9" place="between" staff="1 2" tstamp="1.5">
-                              <rend fontstyle="normal" fontweight="bold" fontsize="x-large">1</rend>
+                              <rend xml:id="rm5em8m1" fontsize="x-large" fontstyle="normal" fontweight="bold">1</rend>
                            </dir>
                         </measure>
                         <measure xml:id="m8h25ai2" n="274" facs="#z0uj6aj2">
@@ -14296,7 +14304,7 @@
                            </staff>
                            <dir xml:id="d92xezz2" place="above" staff="1" tstamp="1">G.P.</dir>
                            <dir xml:id="du7dsb7" place="between" staff="1 2" tstamp="1.5">
-                              <rend fontstyle="normal" fontweight="bold" fontsize="x-large">1</rend>
+                              <rend xml:id="r7ujdwj1" fontsize="x-large" fontstyle="normal" fontweight="bold">1</rend>
                            </dir>
                         </measure>
                         <measure xml:id="m9qgo5q1" n="276" facs="#zevdi71">
@@ -14384,7 +14392,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tdnhdke" staff="1" place="above" tstamp="0">
-                              <rend fontsize="x-large" fontweight="normal">Tempo ritenuto.</rend>
+                              <rend xml:id="rt4zv2x2" fontsize="x-large" fontweight="normal">Tempo ritenuto.</rend>
                            </tempo>
                         </measure>
                         <measure xml:id="meeyh7q2" n="279" facs="#z8sb6621">
@@ -16026,7 +16034,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tnmekmp2" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Tempo di valse.</rend>
+                              <rend xml:id="rbl7rs11" fontsize="x-large" fontweight="normal">Tempo di valse.</rend>
                            </tempo>
                            <dynam xml:id="dd86f141" place="between" staff="1 2" tstamp="1">p</dynam>
                         </measure>
@@ -19926,7 +19934,7 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tq18um9" staff="1" place="above" tstamp="1">
-                              <rend fontsize="x-large" fontweight="normal">Più vivo.</rend>
+                              <rend xml:id="r3hwktt1" fontsize="x-large" fontweight="normal">Più vivo.</rend>
                            </tempo>
                            <dynam xml:id="dnica7h1" place="between" staff="1 2" tstamp="1">f</dynam>
                         </measure>
