@@ -529,12 +529,12 @@
                         <lb xml:id="lxvijmg"/>
                         <rend xml:id="r2732yv1" fontsize="large">OUVERTURE.</rend>
                      </rend>
-                     <rend xml:id="r96jlza" halign="right">Johann Strauss.</rend>
+                     <rend xml:id="r96jlza" halign="right">Johann Strauss, Sohn.</rend>
                   </pgHead>
                   <pgFoot xml:id="pblbk6y1" func="first">
                      <rend xml:id="rifmbts2" fontweight="bold" halign="left">Leipzig, Aug. Cranz G.m.b.H.</rend>
                      <rend xml:id="r0q8bhd1" fontweight="bold" halign="center">C. 43053</rend>
-                     <rend xml:id="rnc4jbf" fontweight="bold" halign="right">Aufführungsrechte vorbehalten.</rend>
+                     <rend xml:id="rnc4jbf" fontweight="bold" halign="right">Aufführungsrecht vorbehalten.</rend>
                   </pgFoot>
                   <pgFoot xml:id="p3k3viz2" func="all">
                      <rend xml:id="r0rld0f1" fontweight="bold" halign="center">C. 43053</rend>
