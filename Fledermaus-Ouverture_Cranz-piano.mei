@@ -12,7 +12,7 @@
             </composer>
             <respStmt xml:id="r1z9tjw1">
                <resp xml:id="r6dqaz1">Transcription and MEI encoding from the scanned print (optical music recognition with Audiveris 5.6.2, corrected system by system against the scan)</resp>
-               <persName xml:id="p8dkwhg" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1053306199" role="encoder">Werner Goebl</persName>
+               <persName xml:id="encoder-WG" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1053306199" role="encoder">Werner Goebl</persName>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="pirp8ow1">
@@ -22,7 +22,7 @@
             </availability>
          </pubStmt>
          <sourceDesc xml:id="szivpg8">
-            <source xml:id="s5lrnxi1">
+            <source xml:id="source-Cranz-piano-reduction">
                <bibl xml:id="bw8b6ws2">
                   <title xml:id="tpisjg61">Die Fledermaus. Ouverture (piano score, two hands)</title>
                   <composer xml:id="c5o0bdo2">Johann Strauss</composer>
@@ -31,7 +31,7 @@
                   <annot xml:id="apox5s1">Digital scan: IMSLP294851-SIBLEY1802.23857.cc98-39087011143791score.pdf (Sibley Music Library). The overture occupies the printed pages 4-13 (PDF pages 5-14).</annot>
                </bibl>
             </source>
-            <source xml:id="swu9e3r1">
+            <source xml:id="source-Eulenburg-orchestral">
                <bibl xml:id="b9k4miy1">
                   <title xml:id="t43pp941">Fledermaus-Ouverture-Eulenburg.mei</title>
                   <annot xml:id="aekagcn2">MEI encoding of the orchestral score (Eulenburg), Signature-Sound-Vienna, used for collating pitches.</annot>
@@ -9962,8 +9962,8 @@
                            </staff>
                         </measure>
                         <app xml:id="stth2zx">
-                           <lem xml:id="l5zi2w1" source="#s5lrnxi1"/>
-                           <rdg xml:id="rx3q5e7" source="#swu9e3r1" resp="#p8dkwhg">
+                           <lem xml:id="two-measures-omitted" source="#source-Cranz-piano-reduction"/>
+                           <rdg xml:id="with-two-measures" source="#source-Eulenburg-orchestral" resp="#encoder-WG">
                               <annot xml:id="a19g9xl">Measures omitted in the piano score (cut by the arranger); condensed from the orchestral score, Eulenburg mm. 194-195</annot>
                               <measure xml:id="mpwg02e" n="193a">
                                  <staff xml:id="s5k3ph4" n="1">
